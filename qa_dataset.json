@@ -1,0 +1,42 @@
+[
+    {
+    "query": "What architecture was introduced in the paper Attention Is All You Need?",
+    "expected_answer": "The paper introduces the Transformer architecture which relies entirely on attention mechanisms without using recurrence or convolution."
+    },
+    {
+    "query": "Why was the Transformer architecture proposed?",
+    "expected_answer": "It was proposed to remove the sequential computation limitations of recurrent networks and enable more parallelization in sequence modeling."
+    },
+    {
+    "query": "What does BERT stand for?",
+    "expected_answer": "BERT stands for Bidirectional Encoder Representations from Transformers."
+    },
+    {
+    "query": "How does BERT learn bidirectional context?",
+    "expected_answer": "BERT uses a masked language modeling objective that allows the model to predict masked tokens using both left and right context."
+    },
+    {
+    "query": "What problem does LSTM solve in recurrent neural networks?",
+    "expected_answer": "LSTM solves the vanishing and exploding gradient problems that occur when learning long-term dependencies in recurrent neural networks."
+    },
+    {
+    "query": "How does LSTM maintain long-term memory?",
+    "expected_answer": "LSTM uses gated units and constant error flow through memory cells to preserve information over long time intervals."
+    },
+    {
+    "query": "What is the main idea behind backpropagation?",
+    "expected_answer": "Backpropagation is a training algorithm for neural networks that adjusts weights by propagating the error gradient backward through the network."
+    },
+    {
+    "query": "What is Retrieval-Augmented Generation (RAG)?",
+    "expected_answer": "RAG is a framework that combines information retrieval with language generation so that models generate answers using retrieved external knowledge."
+    },
+    {
+    "query": "What dataset source was used in the RAG benchmark paper?",
+    "expected_answer": "The dataset was derived from interviews with Amazon rainforest natives and biologists containing cultural and ecological knowledge."
+    },
+    {
+    "query": "What is the key contribution of GPT-3 described in Language Models are Few-Shot Learners?",
+    "expected_answer": "GPT-3 demonstrates that scaling language models to 175 billion parameters enables strong few-shot learning performance without task-specific fine-tuning."
+    }
+    ]

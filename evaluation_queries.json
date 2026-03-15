@@ -1,0 +1,42 @@
+[
+    {
+    "query": "What architecture is proposed in Attention Is All You Need?",
+    "relevant_keywords": ["transformer","attention"]
+    },
+    {
+    "query": "What does BERT stand for?",
+    "relevant_keywords": ["bidirectional","transformers","bert"]
+    },
+    {
+    "query": "How does BERT learn contextual representations?",
+    "relevant_keywords": ["masked","language","model"]
+    },
+    {
+    "query": "What problem does LSTM solve?",
+    "relevant_keywords": ["vanishing","gradient","long"]
+    },
+    {
+    "query": "How does LSTM maintain memory?",
+    "relevant_keywords": ["gates","memory","cells"]
+    },
+    {
+    "query": "What is backpropagation?",
+    "relevant_keywords": ["error","gradient","weights"]
+    },
+    {
+    "query": "What is Retrieval-Augmented Generation?",
+    "relevant_keywords": ["retrieval","generation","rag"]
+    },
+    {
+    "query": "What dataset was used in the RAG benchmark study?",
+    "relevant_keywords": ["amazon","rainforest","dataset"]
+    },
+    {
+    "query": "What is the key idea of GPT-3?",
+    "relevant_keywords": ["few-shot","language","model"]
+    },
+    {
+    "query": "Why are transformers more parallelizable than RNNs?",
+    "relevant_keywords": ["parallel","attention","transformer"]
+    }
+    ]
